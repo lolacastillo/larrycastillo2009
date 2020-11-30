@@ -4,6 +4,6 @@ I am a fullstack developer through and though. I am experienced in Java, Javascr
 
 ### -👷🏾 I’m currently working on working a web forum that utilizes a number current web technologies and a java text-based RPG. 
 ### -📓 I’m currently learning React and Amazon Web Services
-### -📫 How to reach me:** 
+### -📫 How to reach me: 
 * larrycastillo2009@gmail.com
 * https://www.linkedin.com/in/larrycastillo/
